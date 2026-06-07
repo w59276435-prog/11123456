@@ -67,8 +67,6 @@ Thumbs.db
 htmlcov/
 .tox/
 
-# IDE
-.idea/
-.vscode/
-*.sublime-project
-*.sublime-workspace
+# Node
+node_modules/
+npm-debug.log
